@@ -1,0 +1,3 @@
+[submodule "theme/adaptable"]
+	path = theme/adaptable
+	url = https://bitbucket.org/covuni/moodle-theme_adaptable.git
