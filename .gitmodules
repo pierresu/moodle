@@ -1,3 +1,6 @@
 [submodule "theme/adaptable"]
 	path = theme/adaptable
 	url = https://bitbucket.org/covuni/moodle-theme_adaptable.git
+[submodule "course/format/topcoll"]
+	path = course/format/topcoll
+	url = https://github.com/gjb2048/moodle-format_topcoll.git
