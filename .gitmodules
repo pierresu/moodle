@@ -4,3 +4,6 @@
 [submodule "course/format/topcoll"]
 	path = course/format/topcoll
 	url = https://github.com/gjb2048/moodle-format_topcoll.git
+[submodule "mod/quizgame"]
+	path = mod/quizgame
+	url = https://github.com/xow/moodle-mod_quizgame.git
